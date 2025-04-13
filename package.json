@@ -10,8 +10,8 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "^3.0.1",
-    "web-vitals": "^2.1.4"
-    "homepage": "https://sruthisoppa.github.io/Jokes-Generator",
+    "web-vitals": "^2.1.4",
+    "homepage": "https://sruthisoppa.github.io/Jokes-Generator"
   },
   "scripts": {
     "start": "react-scripts start",
